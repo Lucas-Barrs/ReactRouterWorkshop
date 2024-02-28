@@ -30,11 +30,40 @@ body > div {
 .red {
   background-color: tomato;
   color: white;
+  text-shadow: 1px 2px 3px rgb(0, 0, 0), 0 0 1em rgb(0, 0, 0), 0 0 0.2em  rgb(3, 4, 2);
+}
+.orange{
+  background-color: rgb(255, 123, 0);
+  color: white;
+  text-shadow: 1px 2px 3px rgb(0, 0, 0), 0 0 1em rgb(0, 0, 0), 0 0 0.2em  rgb(3, 4, 2);
+}
+.yellow{
+  background-color: goldenrod;
+  color: white;
+  text-shadow: 1px 2px 3px rgb(0, 0, 0), 0 0 1em rgb(0, 0, 0), 0 0 0.2em  rgb(3, 4, 2);
+}
+.green{
+  background-color: lawngreen;
+  color: white;
+  text-shadow: 1px 2px 3px rgb(0, 0, 0), 0 0 1em rgb(0, 0, 0), 0 0 0.2em  rgb(3, 4, 2);
 }
 .blue {
   background-color: #275db3;
   color: white;
+  text-shadow: 1px 2px 3px rgb(0, 0, 0), 0 0 1em rgb(0, 0, 0), 0 0 0.2em  rgb(3, 4, 2);
+}
+.indigo{
+  background-color: indigo;
+  color: white;
+  text-shadow: 1px 2px 3px rgb(0, 0, 0), 0 0 1em rgb(0, 0, 0), 0 0 0.2em  rgb(3, 4, 2);
+}
+.violet{
+  background-color: blueviolet;
+  color: white;
+  text-shadow: 1px 2px 3px rgb(0, 0, 0), 0 0 1em rgb(0, 0, 0), 0 0 0.2em  rgb(3, 4, 2);
 }
 .home{
-  background-color: gold;
+  background-color: rgb(0, 255, 162);
+  color: white;
+  text-shadow: 1px 2px 3px rgb(0, 0, 0), 0 0 1em rgb(0, 0, 0), 0 0 0.2em  rgb(3, 4, 2);
 }
